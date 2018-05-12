@@ -1,0 +1,10 @@
+app-first {
+  // :host ::ng-deep {
+  .mat-tab-group .mat-tab-header .mat-ink-bar {
+    background-color: transparent;
+    transition: none;
+  }
+  h1 {
+    color: blue;
+  }
+}
