@@ -1,5 +1,10 @@
 # ViewEncapsulationSample
 
+## \### Presentation Reference \###
+
+- [VIEW ENCAPSULATION IN ANGULAR](https://blog.thoughtram.io/angular/2015/06/29/shadow-dom-strategies-in-angular2.html) by Pascal Precht 
+- [Angular Guide: Component Styles with `::ng-deep`](https://angular.io/guide/component-styles#deprecated-deep--and-ng-deep)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.1.
 
 ## Development server
